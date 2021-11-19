@@ -63,7 +63,7 @@ funció(2 xocolates) + funció(1 de xiclets) + funció(1 de carmels) = 2 + 0.5 +
 
 Sent per tant el total, 4.
 
-#Nivell 3
+# Nivell 3
 
 * Exercici 1 *
 La criba d'Eratóstenes és un algoritme pensat per a trobar nombres primers dins d'un interval donat. Basats en l'informació de l'enllaç adjunt, implementa la criba d'Eratóstenes dins d'una funció, de tal forma que poguem invocar la funció per a un número concret.
